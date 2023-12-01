@@ -78,10 +78,10 @@ ___
 
 ### php
 ```bash
-docker-compose exec -it php_8_2_container bash
+docker exec -it php_8_2_container bash
 ```
 ### pgsql
 ```bash
-docker-compose exec -it postgres_15_container bash
+docker exec -it postgres_15_container bash
 ```
 
